@@ -9,7 +9,7 @@ _logger = logging.getLogger(__name__)
 class ResUsers(models.Model):
     _inherit = "res.users"
 
-    allow_multiple_sessions = fields.Boolean(string="Allow Multiple Sessions", dafault=False)
+    allow_multiple_sessions = fields.Boolean(string="Allow Multiple Sessions", default=False)
     session_uuid = fields.Char(string="Session UUID",copy=False)
 
     @classmethod
