@@ -94,12 +94,12 @@ P
 - https://github.com/OCA/partner-contact
 - https://github.com/OCA/payroll
 - https://github.com/OCA/pos
-- https://github.com/OCA/product-attribute
+- https://github.com/OCA/product-attribute [\[1/105\]](todo/product-attribute.md)
 - https://github.com/OCA/product-pack
 - https://github.com/OCA/product-variant
 - https://github.com/OCA/project
 - https://github.com/OCA/purchase-reporting
-- https://github.com/OCA/purchase-workflow
+- https://github.com/OCA/purchase-workflow [\[2/107\]](todo/purchase-workflow.md)
 
 Q
 - https://github.com/OCA/queue
@@ -117,7 +117,7 @@ S
 - https://github.com/OCA/sale-channel
 - https://github.com/OCA/sale-promotion
 - https://github.com/OCA/sale-reporting
-- https://github.com/OCA/sale-workflow
+- https://github.com/OCA/sale-workflow [\[2/173\]](todo/sale-workflow.md)
 - https://github.com/OCA/server-auth
 - https://github.com/OCA/server-backend
 - https://github.com/OCA/server-brand
@@ -138,8 +138,8 @@ S
 - https://github.com/OCA/stock-logistics-reservation
 - https://github.com/OCA/stock-logistics-shopfloor
 - https://github.com/OCA/stock-logistics-transport
-- https://github.com/OCA/stock-logistics-warehouse
-- https://github.com/OCA/stock-logistics-workflow
+- https://github.com/OCA/stock-logistics-warehouse [\[1/84\]](todo/stock-logistics-warehouse.md)
+- https://github.com/OCA/stock-logistics-workflow 
 - https://github.com/OCA/stock-weighing
 - https://github.com/OCA/storage
 - https://github.com/OCA/survey
