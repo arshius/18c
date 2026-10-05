@@ -122,7 +122,7 @@ S
 - **Server Backend** <sup>[[&#x2197;]](https://github.com/OCA/server-backend)</sup>
 - **Server Brand** <sup>[[&#x2197;]](https://github.com/OCA/server-brand)</sup>
 - **Server Env** <sup>[[&#x2197;]](https://github.com/OCA/server-env)</sup>
-- **Server Tools** <sup>[[&#x2197;]](https://github.com/OCA/server-tools)</sup>
+- **Server Tools** <sup>[[&#x2197;]](https://github.com/OCA/server-tools) [\[1/29\]](todo/server-tools.md)</sup>
 - **Server Ux** <sup>[[&#x2197;]](https://github.com/OCA/server-ux)</sup>
 - **Shopfloor App** <sup>[[&#x2197;]](https://github.com/OCA/shopfloor-app)</sup>
 - **Sign** <sup>[[&#x2197;]](https://github.com/OCA/sign)</sup>
