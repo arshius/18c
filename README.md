@@ -21,7 +21,7 @@ A
 B
 - **Bank Payment** <sup>[[&#x2197;]](https://github.com/OCA/bank-payment)</sup>
 - **Bank Payment Alternative** <sup>[[&#x2197;]](https://github.com/OCA/bank-payment-alternative)</sup>
-- **Bank Statement Import** <sup>[[&#x2197;]](https://github.com/OCA/bank-statement-import) [\[7/19\]](todo-bank-statement-import.md)</sup>
+- **Bank Statement Import** <sup>[[&#x2197;]](https://github.com/OCA/bank-statement-import) [\[7/19\]](todo/bank-statement-import.md)</sup>
 - **Barcode Interface** <sup>[[&#x2197;]](https://github.com/OCA/barcode-interface)</sup>
 - **Brand** <sup>[[&#x2197;]](https://github.com/OCA/brand)</sup>
 - **Business Requirement** <sup>[[&#x2197;]](https://github.com/OCA/business-requirement)</sup>
