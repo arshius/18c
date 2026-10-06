@@ -11,7 +11,7 @@ A
 - **Account Financial Tools** <sup>[[&#x2197;]](https://github.com/OCA/account-financial-tools)</sup>
 - **Account Fiscal Rule** <sup>[[&#x2197;]](https://github.com/OCA/account-fiscal-rule)</sup>
 - **Account Invoice Reporting** <sup>[[&#x2197;]](https://github.com/OCA/account-invoice-reporting)</sup>
-- **Account Invoicing** <sup>[[&#x2197;]](https://github.com/OCA/account-invoicing)</sup>
+- **Account Invoicing** <sup>[[&#x2197;]](https://github.com/OCA/account-invoicing) [\[1/35\]](todo/account-invoicing.md)</sup>
 - **Account Payment** <sup>[[&#x2197;]](https://github.com/OCA/account-payment)</sup>
 - **Account Reconcile** <sup>[[&#x2197;]](https://github.com/OCA/account-reconcile) [\[10/19\]](todo/account-reconcile.md)</sup>
 - **Agreement** <sup>[[&#x2197;]](https://github.com/OCA/agreement)</sup>
@@ -111,7 +111,7 @@ R
 - **Rest Framework** <sup>[[&#x2197;]](https://github.com/OCA/rest-framework)</sup>
 - **Rma** <sup>[[&#x2197;]](https://github.com/OCA/rma)</sup>
 - **Route Planning** <sup>[[&#x2197;]](https://github.com/OCA/route-planning)</sup>
-  
+
 S
 - **Sale Blanket** <sup>[[&#x2197;]](https://github.com/OCA/sale-blanket)</sup>
 - **Sale Channel** <sup>[[&#x2197;]](https://github.com/OCA/sale-channel)</sup>
