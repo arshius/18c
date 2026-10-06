@@ -152,7 +152,7 @@ U
 V
 
 W
-- **Web** <sup>[[&#x2197;]](https://github.com/OCA/web)</sup>
+- **Web** <sup>[[&#x2197;]](https://github.com/OCA/web) [\[1/65\]](todo/web.md)</sup>
 - **Web Api** <sup>[[&#x2197;]](https://github.com/OCA/web-api)</sup>
 - **Website** <sup>[[&#x2197;]](https://github.com/OCA/website)</sup>
 - **Wms** <sup>[[&#x2197;]](https://github.com/OCA/wms)</sup>
