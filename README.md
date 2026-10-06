@@ -96,7 +96,7 @@ P
 - **Pos** <sup>[[&#x2197;]](https://github.com/OCA/pos)</sup>
 - **Product Attribute** <sup>[[&#x2197;]](https://github.com/OCA/product-attribute) [\[1/105\]](todo/product-attribute.md)</sup>
 - **Product Pack** <sup>[[&#x2197;]](https://github.com/OCA/product-pack)</sup>
-- **Product Variant** <sup>[[&#x2197;]](https://github.com/OCA/product-variant)</sup>
+- **Product Variant** <sup>[[&#x2197;]](https://github.com/OCA/product-variant) [\[2/11\]](todo/product-variant.md)</sup>
 - **Project** <sup>[[&#x2197;]](https://github.com/OCA/project)</sup>
 - **Purchase Reporting** <sup>[[&#x2197;]](https://github.com/OCA/purchase-reporting)</sup>
 - **Purchase Workflow** <sup>[[&#x2197;]](https://github.com/OCA/purchase-workflow) [\[2/107\]](todo/purchase-workflow.md)</sup>
