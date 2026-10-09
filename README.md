@@ -111,13 +111,13 @@ R
 - **Rest Framework** <sup>[[&#x2197;]](https://github.com/OCA/rest-framework)</sup>
 - **Rma** <sup>[[&#x2197;]](https://github.com/OCA/rma)</sup>
 - **Route Planning** <sup>[[&#x2197;]](https://github.com/OCA/route-planning)</sup>
-  
+
 S
 - **Sale Blanket** <sup>[[&#x2197;]](https://github.com/OCA/sale-blanket)</sup>
 - **Sale Channel** <sup>[[&#x2197;]](https://github.com/OCA/sale-channel)</sup>
 - **Sale Promotion** <sup>[[&#x2197;]](https://github.com/OCA/sale-promotion)</sup>
 - **Sale Reporting** <sup>[[&#x2197;]](https://github.com/OCA/sale-reporting)</sup>
-- **Sale Workflow** <sup>[[&#x2197;]](https://github.com/OCA/sale-workflow)</sup>
+- **Sale Workflow** <sup>[[&#x2197;]](https://github.com/OCA/sale-workflow) [\[2/173\]](todo/sale-workflow.md)</sup>
 - **Server Auth** <sup>[[&#x2197;]](https://github.com/OCA/server-auth)</sup>
 - **Server Backend** <sup>[[&#x2197;]](https://github.com/OCA/server-backend)</sup>
 - **Server Brand** <sup>[[&#x2197;]](https://github.com/OCA/server-brand)</sup>
