@@ -99,7 +99,7 @@ P
 - **Product Variant** <sup>[[&#x2197;]](https://github.com/OCA/product-variant)</sup>
 - **Project** <sup>[[&#x2197;]](https://github.com/OCA/project)</sup>
 - **Purchase Reporting** <sup>[[&#x2197;]](https://github.com/OCA/purchase-reporting)</sup>
-- **Purchase Workflow** <sup>[[&#x2197;]](https://github.com/OCA/purchase-workflow)</sup>
+- **Purchase Workflow** <sup>[[&#x2197;]](https://github.com/OCA/purchase-workflow) [\[1/107\]](todo/purchase-workflow.md)</sup>
 
 Q
 - **Queue** <sup>[[&#x2197;]](https://github.com/OCA/queue)</sup>
@@ -111,7 +111,7 @@ R
 - **Rest Framework** <sup>[[&#x2197;]](https://github.com/OCA/rest-framework)</sup>
 - **Rma** <sup>[[&#x2197;]](https://github.com/OCA/rma)</sup>
 - **Route Planning** <sup>[[&#x2197;]](https://github.com/OCA/route-planning)</sup>
-  
+
 S
 - **Sale Blanket** <sup>[[&#x2197;]](https://github.com/OCA/sale-blanket)</sup>
 - **Sale Channel** <sup>[[&#x2197;]](https://github.com/OCA/sale-channel)</sup>
